@@ -20,7 +20,7 @@ Drum Kit challenge solution from The Complete 2021 Web Development Bootcamp cour
 ### Links
 
 - Solution URL: [https://github.com/fotinh0/drum-kit](https://github.com/fotinh0/drum-kit)
-- Live Site URL: []()
+- Live Site URL: [https://fotinh0.github.io/drum-kit/](https://fotinh0.github.io/drum-kit/)
 
 ### Built with
 
