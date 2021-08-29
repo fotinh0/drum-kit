@@ -6,6 +6,7 @@ Drum Kit challenge solution from The Complete 2021 Web Development Bootcamp cour
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
   - [Links](#links)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
@@ -16,6 +17,10 @@ Drum Kit challenge solution from The Complete 2021 Web Development Bootcamp cour
 ### The challenge
 
 - Create a drum kit where you can play sounds by either clicking the buttons or pressing appropriate keys. 
+
+### Screenshots
+
+![drum-kit-screenshot](https://user-images.githubusercontent.com/67170897/131262395-b9df03a4-e3ab-4536-8195-822a30bfc95b.JPG)
 
 ### Links
 
